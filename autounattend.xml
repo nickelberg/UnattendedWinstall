@@ -98,7 +98,7 @@
 				</RunSynchronousCommand>     
           			<RunSynchronousCommand wcm:action="add">
 					<Order>11</Order>
-						<Description>Adds Take Ownership to the Right Click Context Menu</Description>
+					<Description>Adds Take Ownership to the Right Click Context Menu</Description>
 					<Path>cmd.exe /c "reg.exe import "C:\Windows\Setup\Scripts\take-ownership.reg" &gt;&gt;"C:\Windows\Setup\Scripts\take-ownership.log" 2&gt;&amp;1"</Path>
 				</RunSynchronousCommand>
 				<RunSynchronousCommand wcm:action="add">
