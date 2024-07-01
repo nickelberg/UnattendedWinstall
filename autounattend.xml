@@ -1087,7 +1087,7 @@ shutdown /r -t 1
 	</DefaultLayoutOverride>
 </LayoutModificationTemplate>
 		]]></File>
-	<!--Adds "Take Ownership" to the Right Click Context Menu-->
+<!--Adds "Take Ownership" to the Right Click Context Menu-->
 		<File path="C:\Windows\Setup\Scripts\take-ownership.reg">
 			<![CDATA[
 Windows Registry Editor Version 5.00
